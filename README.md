@@ -1,4 +1,4 @@
-# :: Project Marg0t ::
+# Project :: Marg0t
 
 Project Marg0t is a 6502 custom computer, that says "Asslema!" which means "Hello, World!" in Tunisian. 
 
